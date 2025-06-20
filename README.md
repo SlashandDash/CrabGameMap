@@ -1,1 +1,2 @@
 - Added safezone NexoMap
+- Added safezone obby
